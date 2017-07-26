@@ -1,0 +1,24 @@
+SMAP
+rssfeed_jsp.java
+JSP
+*S JSP
+*F
++ 0 rssfeed.jsp
+rssfeed.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,17:54
+1#1,95:71
+96,6:167
+101,2:173
+103,4:176
+106,6:180
+21#0,5:186
+27,26:193
+52,5:219
+1#2,38:224
+56#0,4:262
+*E

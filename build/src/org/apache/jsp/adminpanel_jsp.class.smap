@@ -1,0 +1,18 @@
+SMAP
+adminpanel_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminpanel.jsp
+adminpanel.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,11:50
+1#1,99:61
+15#0,35:160
+1#2,38:195
+49#0,4:233
+*E

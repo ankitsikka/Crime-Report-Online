@@ -1,0 +1,20 @@
+SMAP
+statusupdate_jsp.java
+JSP
+*S JSP
+*F
++ 0 statusupdate.jsp
+statusupdate.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,19:59
+1#1,99:78
+23#0,33:177
+56,47:211
+102,20:258
+1#2,38:278
+121#0,4:316
+*E

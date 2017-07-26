@@ -1,0 +1,20 @@
+SMAP
+addstate_jsp.java
+JSP
+*S JSP
+*F
++ 0 addstate.jsp
+addstate.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,23:58
+1#1,100:81
+23#0,24:181
+48,113:207
+160,16:320
+1#2,45:336
+175#0,6:381
+*E

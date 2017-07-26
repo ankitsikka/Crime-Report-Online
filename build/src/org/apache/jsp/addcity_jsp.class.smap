@@ -1,0 +1,22 @@
+SMAP
+addcity_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcity.jsp
+addcity.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,23:58
+1#1,100:81
+23#0,11:181
+34,48:193
+81,23:241
+105,116:266
+220,15:382
+1#2,45:397
+234#0,8:442
+*E

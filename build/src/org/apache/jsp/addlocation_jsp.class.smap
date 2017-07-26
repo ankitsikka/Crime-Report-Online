@@ -1,0 +1,20 @@
+SMAP
+addlocation_jsp.java
+JSP
+*S JSP
+*F
++ 0 addlocation.jsp
+addlocation.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,15:51
+1#1,100:66
+15#0,11:166
+26,48:178
+73,132:226
+1#2,45:358
+204#0,6:403
+*E
