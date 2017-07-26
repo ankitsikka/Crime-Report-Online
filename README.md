@@ -22,4 +22,4 @@ is also there for adding police stations and verifying officers.
 <h1> List of Complaints</h1>
 <img src="https://raw.githubusercontent.com/ankitsikka/Crime-Report-Online/master/readme_images/list of complaints.png"/>
 <h1> Add Police Station</h1>
-<img src="https://raw.githubusercontent.com/ankitsikka/Crime-Report-Online/master/readme_images/add_police-station.png"/>
+<img src="https://raw.githubusercontent.com/ankitsikka/Crime-Report-Online/master/readme_images/add_police_station.png"/>
